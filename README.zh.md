@@ -32,7 +32,7 @@ Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
     }
 
     dependencies {
-        compile 'cn.pedant.sweetalert:library:1.3'
+        implementation 'cn.pedant.sweetalert:library:1.3'
     }
 
 ## 如何开始

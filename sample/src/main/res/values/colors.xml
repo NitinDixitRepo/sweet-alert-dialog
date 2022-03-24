@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+
+
+
+    <color name="miniTitle">#2A2E43</color>
+<!--    <color name="contentTextColor">#020000</color>-->
+
+    <color name="colorPrimary2">#F44336</color>
+    <color name="colorPrimary">#CB202D</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#CB202D</color>
+    <color name="colorPrimaryLight">#FFF</color>
+    <color name="colorPrimaryDarkLight">#FFF</color>
+
+    <color name="colorText">#020000</color>
+    <color name="colorTextPrimary">#2A2E43</color>
+    <color name="colorTextSecondary">#827f93</color>
+
+    <color name="colorDivider">#CFD8DC</color>
+    <color name="colorSearch">#61CDCBDC</color>
+    <color name="colorBackgroundCategory">#F7FFFF</color>
+
+
+    <color name="colorStatusError">#FF5722</color>
+    <color name="colorStatusInfo">#1E88E5</color>
+    <color name="colorStatusImportant">#00897B</color>
+    <color name="colorStatusSuccess">#00C853</color>
+    <color name="colorStatusFailure">#FF3D00</color>
+    <color name="colorStatusSuccessLight">#ABFDCE</color>
+    <color name="colorStatusSuccessLight2">#DCFBE9</color>
+    <color name="colorStatusFailureLight">#F1C3B3</color>
+    <color name="colorStatusFailureLight2">#FADFD5</color>
+    <color name="colorStatusRunning">#8BC34A</color>
+    <color name="colorStatusPending">#FFC107</color>
+    <color name="colorStatusPending2">#F6C83C</color>
+    <color name="colorStatusCurrent">#29B6F6</color>
+    <color name="colorStatusCurrentTransparent1">#6600C853</color>
+    <color name="colorStatusCurrentTransparent">#8829B6F6</color>
+    <color name="colorStatusCurrentTransparent2">#55FF5722</color>
+    <color name="colorTextTitlePrimary">#002769</color>
+
+
+    <color name="swipe_color_1">#B6DB49</color>
+    <color name="swipe_color_2">#99CC00</color>
+    <color name="swipe_color_3">#8ABD00</color>
+    <color name="swipe_color_4">#7CAF00</color>
+</resources>

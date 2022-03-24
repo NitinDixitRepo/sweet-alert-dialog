@@ -2,13 +2,7 @@ Sweet Alert Dialog
 ===================
 SweetAlert for Android, a beautiful and clever alert dialog
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Sweet%20Alert%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1065)
-
-[中文版](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
-
-Inspired by JavaScript [SweetAlert](http://tristanedwards.me/sweetalert)
-
-[Demo Download](https://github.com/pedant/sweet-alert-dialog/releases/download/v1.1/sweet-alert-sample-v1.1.apk)
+Forked from [SweetAlert](https://github.com/pedant/sweet-alert-dialog)
 
 ## ScreenShot
 ![image](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
@@ -28,11 +22,11 @@ The simplest way to use SweetAlertDialog is to add the library as aar dependency
 **Gradle**
 
     repositories {
-        mavenCentral()
+        maven { url 'https://jitpack.io' }
     }
 
     dependencies {
-        compile 'cn.pedant.sweetalert:library:1.3'
+        implementation 'cn.pedant.sweetalert:library:1.3'
     }
 
 ## Usage
@@ -164,13 +158,11 @@ Show the cancel button and bind listener to it：
         })
         .show();
 
-[more android tech shares: pedant.cn](http://www.pedant.cn)
-
 ## License
 
     The MIT License (MIT)
 
-    Copyright (c) 2014 Pedant(http://pedant.cn)
+    Copyright (c) 2022 Nitin Dixit
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal

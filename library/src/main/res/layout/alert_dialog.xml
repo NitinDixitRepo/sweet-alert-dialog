@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:wheel="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/loading"
     android:layout_width="@dimen/alert_width"
     android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:contentDescription="@string/app_name"
-            android:src="@drawable/error_center_x"
+            app:srcCompat="@drawable/error_center_x"
             android:scaleType="center" />
 
     </FrameLayout>
@@ -96,7 +96,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:contentDescription="@string/app_name"
-            android:src="@drawable/warning_sigh"
+            app:srcCompat="@drawable/warning_sigh"
             android:scaleType="center" />
     </FrameLayout>
 
@@ -109,11 +109,11 @@
         android:orientation="vertical"
         android:visibility="gone">
 
+<!--        app:progressIndeterminate="true"-->
         <com.pnikosis.materialishprogress.ProgressWheel
             android:id="@+id/progressWheel"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            wheel:progressIndeterminate="true"
             android:layout_gravity="center" />
     </FrameLayout>
 
