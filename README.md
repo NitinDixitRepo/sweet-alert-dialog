@@ -29,7 +29,7 @@ The simplest way to use SweetAlertDialog is to add the library as aar dependency
     }
 
     dependencies {
-        implementation 'cn.pedant.sweetalert:library:1.3'
+        implementation 'com.github.NitinDixitRepo:sweet-alert-dialog:v2.0'
     }
 
 ## Usage
