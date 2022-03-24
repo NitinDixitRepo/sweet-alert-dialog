@@ -1,8 +1,11 @@
 Sweet Alert Dialog
 ===================
-SweetAlert for Android, a beautiful and clever alert dialog
+SweetAlert for Android, a beautiful and clever alert dialog compatible with Android Studio Bumblebee | 2021.1.1 Patch 2
 
 Forked from [SweetAlert](https://github.com/pedant/sweet-alert-dialog)
+
+[![](https://jitpack.io/v/NitinDixitRepo/sweet-alert-dialog.svg)](https://jitpack.io/#NitinDixitRepo/sweet-alert-dialog)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## ScreenShot
 ![image](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
